@@ -16,6 +16,9 @@ It has three types
 -NESTED TABLES
 -VARRAYS
 An associative array is a collection of key value pairs
+
 Nested Table is a collection of elements of the same data type that can grow or shrink dynamically
+
 Varray is a collection with a fixed maximum size. You must specify how many elements it can hold when yo define it.
+
  
